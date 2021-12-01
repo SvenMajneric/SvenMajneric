@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SvenMajneric
 - 👀 I’m interested in programming in general.
-- 🌱 I’m currently learning Android development.
 - 💼 Working at Ars Futura.
 - 📫 You can reach me at svenmajneric@gmail.com
 
