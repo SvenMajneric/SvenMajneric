@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SvenMajneric
 - 👀 I’m interested in programming in general.
-- 💼 Working at Ars Futura.
+- 💼 Open to work.
 - 📫 You can reach me at svenmajneric@gmail.com
 
 <!---
